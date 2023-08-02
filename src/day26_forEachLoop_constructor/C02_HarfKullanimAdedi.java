@@ -1,7 +1,5 @@
 package day26_forEachLoop_constructor;
 
-import java.util.Arrays;
-
 public class C02_HarfKullanimAdedi {
 
     public static void main(String[] args) {
